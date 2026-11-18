@@ -1,0 +1,26 @@
+# Core Data & ML
+pandas
+scikit-learn
+xgboost
+numpy
+
+# MLOps (Phases 2, 5, 6, 7)
+mlflow
+dvc
+
+# Feature Store (Phase 4)
+feast
+
+# Deployment (Phase 8)
+fastapi
+uvicorn
+pydantic
+requests
+
+# Monitoring (Phase 9)
+evidently
+prometheus-client
+
+# Testing & CI/CD (Phase 10)
+pytest
+python-dotenv
